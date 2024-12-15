@@ -1,6 +1,3 @@
-# Bike-Rental-Prediction
-A Linear Regression project to predict bike rentals based on environmental data
-
 # Bike Rental Prediction Project
 This project predicts daily bike rentals using Linear Regression based on features like temperature, humidity, and wind speed.
 
